@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning: Software Enginer
 - 💞️ I’m looking to collaborate on: Projects
 - 📫 How to reach me: CarfiCadu on Intagram
-- ⚡ Fun fact: i love play VideoGames and Soccer
+- 🎮 Fun fact: i love play VideoGames and Soccer
 
 <!---
 CaduCarfi/CaduCarfi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
