@@ -7,7 +7,6 @@
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carficadu/)
 
 ![Carfi Cadu GitHub stats](https://github-readme-stats.vercel.app/api?username=CaduCarfi&show_icons=true&theme=dark)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaduCarfi)](https://github.com/CaduCarfi/github-readme-stats)
 
 
