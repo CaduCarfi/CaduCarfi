@@ -8,8 +8,8 @@
 [![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord&logoColor=red)](https://discord.com/channels/@caducarfi/)
 
 ## GitHub Stats
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaduCarfi&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FF0000)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaduCarfi&size_weight=0.5&count_weight=0.5)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CaduCarfi&theme=black&show_icons=true)
 
 ## Tecnologias que eu uso no meu dia
 
