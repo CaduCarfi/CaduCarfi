@@ -9,7 +9,7 @@
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaduCarfi&bg_color=000&border_color=FF0000&title_color=FF0000&text_color=FF0000)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=CaduCarfi&theme=git-dark&bg_color=000&border_color=FF0000&show_icons=true&icon_color=FF0000&title_color=FF0000&text_color=FF0000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=dark&show_icons=true)
 
 ## Tecnologias que eu uso no meu dia
 
