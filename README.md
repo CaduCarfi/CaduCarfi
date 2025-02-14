@@ -2,9 +2,9 @@
 
 ## Conecte-se comigo
 
-[![Blog](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/carlos-eduardo-carfi-1994032ab/)
-[![Blog](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=black)](https://www.instagram.com/carficadu/)
-[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=black)](mailto:carficadu@gmail.comL)
+[![Blog](https://img.shields.io/badge/LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=red)](https://www.linkedin.com/in/carlos-eduardo-carfi-1994032ab/)
+[![Blog](https://img.shields.io/badge/Instagram-000?style=for-the-badge&logo=instagram&logoColor=red)](https://www.instagram.com/carficadu/)
+[![Gmail](https://img.shields.io/badge/Gmail-000?style=for-the-badge&logo=gmail&logoColor=red)](mailto:carficadu@gmail.comL)
 
 ## GitHub Stats
 ![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=CaduCarfi&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF)
