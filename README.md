@@ -1,4 +1,8 @@
-### Olá! Eu sou o Carlos Eduardo Carfi 👋
+# Olá! Eu sou Carlos Eduardo Carfi 👋
+
+## Conecte-se comigo
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/carlos-eduardo-carfi-1994032ab/))
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-eduardo-carfi-1994032ab/)
 [![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/carficadu/)
