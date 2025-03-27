@@ -11,10 +11,7 @@
  &nbsp;
  &nbsp;
 
-
-
 ## My Skills
-
 
 #### Main Stack:
 
@@ -23,7 +20,6 @@
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-
 <img src="https://i.pinimg.com/originals/fd/e1/0f/fde10f0a706b219627dfcd34a6a1c939.gif" width="400px" align="right" alt="Descrição da imagem">
 
 #### Estudando no Momento:
