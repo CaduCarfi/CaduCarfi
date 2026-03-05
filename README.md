@@ -3,8 +3,6 @@
 # Olá! Eu sou Carlos Eduardo Carfi 👋
 
 <div  align="center" style="margin-bottom:100px">
- 
-<h1 align="center">Hey 👋What's Up?</h1>
 
 ###
 
