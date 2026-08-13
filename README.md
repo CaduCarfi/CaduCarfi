@@ -40,6 +40,11 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" title="PostgreSQL" />
   <img width="7" />
+
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker" height="35" />
+  </a>
+</p>
   
   <img src="https://skillicons.dev/icons?i=postman" height="35" title="Postman" />
   <img width="7" />
