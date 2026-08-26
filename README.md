@@ -1,6 +1,8 @@
 <div align="center">
 
+# Carlos Eduardo Carfi
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Spring+Boot;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -57,7 +59,7 @@ Minha atuação envolve:
 
 <table>
 <tr>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 <b>Back-End</b>
 
@@ -65,20 +67,28 @@ Minha atuação envolve:
 Java · Spring Boot
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
 <b>Front-End</b>
 
-<img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" /><br/>
-HTML · CSS · JavaScript
+<img src="https://skillicons.dev/icons?i=html,css,js,angular&theme=dark" /><br/>
+HTML · CSS · JavaScript · Angular
 
 </td>
-<td valign="top" width="33%">
+<td valign="top" width="25%">
 
-<b>Banco de Dados & Ferramentas</b>
+<b>Banco de Dados</b>
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,docker,git,github&theme=dark" /><br/>
-MySQL · PostgreSQL · Docker · Git
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb&theme=dark" /><br/>
+MySQL · PostgreSQL · MongoDB
+
+</td>
+<td valign="top" width="25%">
+
+<b>Ferramentas</b>
+
+<img src="https://skillicons.dev/icons?i=docker,git,github,postman&theme=dark" /><br/>
+Docker · Git · GitHub · Postman
 
 </td>
 </tr>
@@ -88,7 +98,7 @@ MySQL · PostgreSQL · Docker · Git
 
 <b>Editores & Design</b>
 
-<img src="https://skillicons.dev/icons?i=vscode,idea,figma,postman&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vscode,idea,figma&theme=dark" />
 
 </div>
 
@@ -101,8 +111,8 @@ MySQL · PostgreSQL · Docker · Git
 | Área | Habilidade |
 |------|-----------|
 | ⚙️ Back-End | Java, Spring Boot e construção de APIs |
-| 🎨 Front-End | Interfaces web com HTML, CSS e JavaScript |
-| 🗃️ Banco de Dados | Modelagem e uso com MySQL/PostgreSQL |
+| 🎨 Front-End | Interfaces web com HTML, CSS, JavaScript e Angular |
+| 🗃️ Banco de Dados | Modelagem e uso com MySQL/PostgreSQL/MongoDB |
 | 🚀 Ferramentas | Docker, Git, Postman e versionamento |
 | 📐 Boas práticas | Organização de código e estrutura de projeto |
 
@@ -150,4 +160,3 @@ MySQL · PostgreSQL · Docker · Git
 </div>
 
 ---
-</div>
