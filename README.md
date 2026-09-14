@@ -71,8 +71,8 @@ Java · Spring Boot
 
 <b>Front-End</b>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,angular&theme=dark" /><br/>
-HTML · CSS · JavaScript · Angular
+<img src="https://skillicons.dev/icons?i=html,css,js,angular,typescript&theme=dark" /><br/>
+HTML · CSS · JavaScript · Angular · TypeScript
 
 </td>
 <td valign="top" width="25%">
