@@ -2,7 +2,7 @@
 
 # Carlos Eduardo Carfi
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=Backend+Developer;Java+%26+Spring+Boot;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=EF4444&center=true&vCenter=true&width=500&lines=FullStack+Developer;Java+%26+Spring+Boot;Sempre+aprendendo+algo+novo+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
