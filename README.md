@@ -124,11 +124,10 @@ Docker · Git · GitHub · Postman
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=CaduCarfi&theme=dark&hide_border=true&background=0D1117&ring=FF0000&fire=FF0000&currStreakLabel=FF0000&sideLabels=FFFFFF&sideNums=FFFFFF&dates=B0B0B0" height="140em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CaduCarfi&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=FF0000&text_color=FFFFFF" height="140em"/>
 </div>
 
 ---
-
-## 📈 Gráfico de Contribuições
 
 <div align="center">
   <picture>
